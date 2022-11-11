@@ -1,8 +1,12 @@
    - passo 1
    
-    Para a criação do meu site,primeiramente eu comecei reunindo informações que irão me ajudar na crição do meu site,depois eu analisei os sites concorrentes 
-    para ver o diferencial deles,analisando seus pontos negativos e positivos,também aproveitei para reunir inspirações que irão me ajudar na modelagem do meu site.
-
+       Para a criação do meu site,primeiramente eu comecei reunindo informações
+    que irão me ajudar na crição do meu site,depois eu analisei os sites concorrentes 
+    para ver o diferencial deles,analisando seus pontos negativos e positivos,
+    também aproveitei para reunir inspirações que irão me ajudar na modelagem do meu site.
+       já com as idéias prontas,eu iniciei a medelagem do meu site,eu comecei pelo menu principal,
+    que irá servir de base para criar as próximas páginas.
+    
 
    - Passo 2
 
