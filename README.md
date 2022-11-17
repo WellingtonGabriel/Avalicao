@@ -12,7 +12,7 @@
 
    1) Qual o nome do produto/serviço ?
 
-   R:
+   R: Empório Bikes
 
    2) Qual a grande idéia da interface que será criada ?
 
