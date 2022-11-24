@@ -31,6 +31,7 @@
     
       para encerrar,a última página será o carrinho de compras,onde o usuário poderá adicionar produtos para comprar mais tarde.
 
+        projeto : https://github.com/users/WellingtonGabriel/projects/3
    - Passo 2
 
    1) Qual o nome do produto/serviço ?
